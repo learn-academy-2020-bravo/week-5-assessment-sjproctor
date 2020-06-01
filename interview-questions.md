@@ -4,7 +4,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. Rails follows an MVC pattern. What does that mean?
 
-  Your answer:
+  Your answer: Model View Controller
 
   Researched answer:
 
@@ -12,7 +12,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 2. What does it mean if an application has CRUD? What does CRUD stand for?
 
-  Your answer:
+  Your answer: Create Read Update Delete
 
   Researched answer:
 
